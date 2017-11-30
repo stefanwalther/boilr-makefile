@@ -1,0 +1,24 @@
+{
+  "name": "boilr-makefile",
+  "version": "1.0.0",
+  "description": "Boilr template for a basic Makefile.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-makefile.git"
+  },
+  "keywords": [
+    "boilr",
+    "makefile",
+    "make"
+  ],
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-makefile/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-makefile#readme",
+  "private": true
+}
