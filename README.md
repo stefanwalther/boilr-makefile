@@ -14,10 +14,10 @@ Install [boilr](https://github.com/tmrts/boilr) first.
 Then use 
 
 ```
-$ boilr download  <template-tag>
+$ boilr download  stefanwalther/boilr-makefile <template-tag>
 
 # e.g.
-$ boilr download  boilr-makefile
+$ boilr download  stefanwalther/boilr-makefile boilr-makefile
 ```
 
 ## Usage
@@ -25,13 +25,13 @@ $ boilr download  boilr-makefile
 ### Download the template
 
 ```
-$ boilr template download  <template-tag>
+$ boilr template download  stefanwalther/boilr-makefile <template-tag>
 ```
 
 ### Fork, modify locally and save it
 
 ```
-$ git clone 
+$ git clone stefanwalther/boilr-makefile
 ```
 
 cd into it, then
