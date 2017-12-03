@@ -49,7 +49,14 @@ $ boilr template save $(PWD) boilr-makefile
 $ boilr template use boilr-makefile .
 ```
 
-## Author
+## About
+
+### Related projects
+Some related projects:
+
+ 
+
+### Author
 **Stefan Walther**
 
 * [twitter](http://twitter.com/waltherstefan)  
