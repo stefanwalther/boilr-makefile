@@ -6,7 +6,7 @@
 
 ## Purpose
 
-Create a very simplistic Makefile.
+Create a very simplistic [Makefile](./template/Makefile).
 
 ## Installation
 
