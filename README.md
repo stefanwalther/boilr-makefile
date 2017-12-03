@@ -54,7 +54,7 @@ $ boilr template use boilr-makefile .
 ### Related projects
 Some related projects:
 
- 
+- [boilr-makefile](https://www.npmjs.com/package/boilr-makefile): Boilr template for a basic Makefile. | [homepage](https://github.com/stefanwalther/boilr-makefile#readme "Boilr template for a basic Makefile.") 
 
 ### Author
 **Stefan Walther**
