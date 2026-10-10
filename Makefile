@@ -5,10 +5,6 @@ help:											## Show this help.
 	@echo ''
 .PHONY: help
 
-gen-readme:										## Generate README.md (using docker-verb)
-	rm -rf ./README.md && docker run --rm -v ${PWD}:/opt/verb stefanwalther/verb
-.PHONY: gen-readme
-
 reg:											## Register the current template locally
 	boilr template save $(PWD) makefile -f
 .PHONY: reg
